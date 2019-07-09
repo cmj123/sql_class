@@ -4,8 +4,8 @@
 # It can be found at:
 # https://udemy.com/sql-for-marketers-data-analytics-data-science-big-data
 
-from __future__ import print_function, division
-from builtins import range
+# from __future__ import print_function, division
+# from builtins import range
 # Note: you may need to update your version of future
 # sudo pip install -U future
 
